@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    transform: translate(0%, 1100%);
+
+}
+
+h2{
+    text-align: center;
+    transform: translate(0%, 1000%);
+}
+
+
+img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.p1{
+    text-align: center;
+    transform: translate(0%, 2100%);
+}
+
+.p2{
+    text-align: center;
+    transform: translate(0%, 1400%);
+}
